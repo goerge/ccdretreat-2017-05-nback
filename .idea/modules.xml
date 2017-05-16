@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ccdschoolretreat.iml" filepath="$PROJECT_DIR$/.idea/modules/ccdschoolretreat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ccdschoolretreat_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ccdschoolretreat_main.iml" group="ccdschoolretreat" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ccdschoolretreat_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ccdschoolretreat_test.iml" group="ccdschoolretreat" />
+    </modules>
+  </component>
+</project>
